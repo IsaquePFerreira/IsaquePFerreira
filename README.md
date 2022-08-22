@@ -1,16 +1,19 @@
-### Hi there 👋
+### Olá, Isaque aqui! 👋
+---
+   Olá, Isaque aqui! Sou um estudante de tecnologia e busco me tornar 
+   um profissional de T.I. exemplar, para isso busco melhorar a cada  
+   dia mais e e aprender coisas novas, aprendi que a melhora é        
+   processo contínuo, assim procure melhorar um pouco mais a cada     
+   dia.                                                               
+   Gosto muito de tecnologia , linux, games(apesar de não ser         
+   pro player kkk!) e diria que foi com eles que comecei a me         
+   interessar por tecnologia, também gosto muito de programação.      
 
-<!--
-**IsaquePFerreira/IsaquePFerreira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+   Escolhi o caminho do Desenvolvedor Web!                            
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+   E é isso...                                                        
+   Fica com Deus                                                      
+   e                                                                  
+   Falou!                                                             
+                                                                    
+---
