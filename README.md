@@ -1,12 +1,8 @@
 <h1 align="center">Hey 👋, I'm Isaque P. Ferreira (IsaquePFerreira)</h1>
-<!--
-<img align="right" alt="Coding" width="300" src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/coding-freak.gif">
--->
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=IsaquePFerreira&label=Profile%20views&color=2DE72B&style=flat" alt="IsaquePFerreira" /> </p>
 
-
 - 📫 How to reach me **pferreiraisaque@gmail.com**
-
 
 ### OS:
   
@@ -14,7 +10,6 @@
 ![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![FreeBSD](https://img.shields.io/badge/-FreeBSD-%23870000?style=for-the-badge&logo=freebsd&logoColor=white)
-
 
 ### Languages:
 
@@ -41,7 +36,6 @@
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
-
 
 ---
 
